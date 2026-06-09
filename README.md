@@ -53,9 +53,95 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Post batch detect dominant language, Post batch detect entities, Post batch detect key phrases, Post batch detect sentiment, Post batch detect syntax, Post batch detect targeted sentiment, Post classify document, Post contains pii entities, Post create dataset, Post create document classifier, Post create endpoint, Post create entity recognizer, Post create flywheel, Post delete document classifier, Post delete endpoint, Post delete entity recognizer, Post delete flywheel, Post delete resource policy, Post describe dataset, Post describe document classification job, Post describe document classifier, Post describe dominant language detection job, Post describe endpoint, Post describe entities detection job, Post describe entity recognizer, Post describe events detection job, Post describe flywheel, Post describe flywheel iteration, Post describe key phrases detection job, Post describe pii entities detection job, Post describe resource policy, Post describe sentiment detection job, Post describe targeted sentiment detection job, Post describe topics detection job, Post detect dominant language, Post detect entities, Post detect key phrases, Post detect pii entities, Post detect sentiment, Post detect syntax, Post detect targeted sentiment, Post import model, Post list datasets, Post list document classification jobs, Post list document classifier summaries, Post list document classifiers, Post list dominant language detection jobs, Post list endpoints, Post list entities detection jobs, Post list entity recognizer summaries, Post list entity recognizers, Post list events detection jobs, Post list flywheel iteration history, Post list flywheels, Post list key phrases detection jobs, Post list pii entities detection jobs, Post list sentiment detection jobs, Post list tags for resource, Post list targeted sentiment detection jobs, Post list topics detection jobs, Post put resource policy, Post start document classification job, Post start dominant language detection job, Post start entities detection job, Post start events detection job, Post start flywheel iteration, Post start key phrases detection job, Post start pii entities detection job, Post start sentiment detection job, Post start targeted sentiment detection job, Post start topics detection job, Post stop dominant language detection job, Post stop entities detection job, Post stop events detection job, Post stop key phrases detection job, Post stop pii entities detection job, Post stop sentiment detection job, Post stop targeted sentiment detection job, Post stop training document classifier, Post stop training entity recognizer, Post tag resource, Post untag resource, Post update endpoint, Post update flywheel |
+<details>
+<summary><b>Default</b> (84 operations)</summary>
+
+- Post Batch Detect Dominant Language
+- Post Batch Detect Entities
+- Post Batch Detect Key Phrases
+- Post Batch Detect Sentiment
+- Post Batch Detect Syntax
+- Post Batch Detect Targeted Sentiment
+- Post Classify Document
+- Post Contains Pii Entities
+- Post Create Dataset
+- Post Create Document Classifier
+- Post Create Endpoint
+- Post Create Entity Recognizer
+- Post Create Flywheel
+- Post Delete Document Classifier
+- Post Delete Endpoint
+- Post Delete Entity Recognizer
+- Post Delete Flywheel
+- Post Delete Resource Policy
+- Post Describe Dataset
+- Post Describe Document Classification Job
+- Post Describe Document Classifier
+- Post Describe Dominant Language Detection Job
+- Post Describe Endpoint
+- Post Describe Entities Detection Job
+- Post Describe Entity Recognizer
+- Post Describe Events Detection Job
+- Post Describe Flywheel
+- Post Describe Flywheel Iteration
+- Post Describe Key Phrases Detection Job
+- Post Describe Pii Entities Detection Job
+- Post Describe Resource Policy
+- Post Describe Sentiment Detection Job
+- Post Describe Targeted Sentiment Detection Job
+- Post Describe Topics Detection Job
+- Post Detect Dominant Language
+- Post Detect Entities
+- Post Detect Key Phrases
+- Post Detect Pii Entities
+- Post Detect Sentiment
+- Post Detect Syntax
+- Post Detect Targeted Sentiment
+- Post Import Model
+- Post List Datasets
+- Post List Document Classification Jobs
+- Post List Document Classifier Summaries
+- Post List Document Classifiers
+- Post List Dominant Language Detection Jobs
+- Post List Endpoints
+- Post List Entities Detection Jobs
+- Post List Entity Recognizer Summaries
+- Post List Entity Recognizers
+- Post List Events Detection Jobs
+- Post List Flywheel Iteration History
+- Post List Flywheels
+- Post List Key Phrases Detection Jobs
+- Post List Pii Entities Detection Jobs
+- Post List Sentiment Detection Jobs
+- Post List Tags For Resource
+- Post List Targeted Sentiment Detection Jobs
+- Post List Topics Detection Jobs
+- Post Put Resource Policy
+- Post Start Document Classification Job
+- Post Start Dominant Language Detection Job
+- Post Start Entities Detection Job
+- Post Start Events Detection Job
+- Post Start Flywheel Iteration
+- Post Start Key Phrases Detection Job
+- Post Start Pii Entities Detection Job
+- Post Start Sentiment Detection Job
+- Post Start Targeted Sentiment Detection Job
+- Post Start Topics Detection Job
+- Post Stop Dominant Language Detection Job
+- Post Stop Entities Detection Job
+- Post Stop Events Detection Job
+- Post Stop Key Phrases Detection Job
+- Post Stop Pii Entities Detection Job
+- Post Stop Sentiment Detection Job
+- Post Stop Targeted Sentiment Detection Job
+- Post Stop Training Document Classifier
+- Post Stop Training Entity Recognizer
+- Post Tag Resource
+- Post Untag Resource
+- Post Update Endpoint
+- Post Update Flywheel
+
+</details>
 
 ---
 

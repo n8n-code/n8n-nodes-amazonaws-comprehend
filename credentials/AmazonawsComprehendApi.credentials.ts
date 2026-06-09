@@ -8,7 +8,7 @@ import type {
 export class AmazonawsComprehendApi implements ICredentialType {
 	name = 'N8nDevAmazonawsComprehendApi';
 
-	displayName = 'amazonaws-comprehend API';
+	displayName = 'Amazonaws Comprehend API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsComprehend/amazonaws-comprehend.png', dark: 'file:../nodes/AmazonawsComprehend/amazonaws-comprehend.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsComprehendApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://comprehend.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-comprehend API server',
+			description: 'The base URL of your Amazonaws Comprehend API server',
 		},
 		{
 			displayName: 'API Key',
